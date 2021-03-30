@@ -42,3 +42,6 @@ sidebar_label: Courses
 - [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
 - [edx-dl](https://github.com/coursera-dl/edx-dl) - A simple tool to download video lectures from edx.org and other openedx sites.
+- [coursecatalog.us](https://coursecatalog.us/) - Download All Udemy Paid Courses for Free.
+- [sitepoint.us](https://sitepoint.us) - 100% Udemy Coupons - Udemy Paid Course for Free.
+- [courseforfree.net](https://courseforfree.net) - Learn How To Code - Course for Free.
